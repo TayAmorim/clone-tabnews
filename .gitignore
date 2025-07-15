@@ -1,0 +1,13 @@
+# Pasta de módulos
+node_modules/
+
+# Pasta de build do Next.js
+.next/
+
+# Arquivos de configuração local
+.env
+.env.local
+
+# Arquivos de build
+build/
+.DS_Store
