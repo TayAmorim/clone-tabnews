@@ -1,5 +1,5 @@
 function Home () {
-    return  <h1> seu pedido chegou, motoboy rebolando</h1>
+    return  <h1> Seu pedido chegou, motoboy rebolando</h1>
     
 }
 
